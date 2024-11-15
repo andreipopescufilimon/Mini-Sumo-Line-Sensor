@@ -13,6 +13,9 @@ The Single Sensor Line Detection Module is designed for competitive robotics, of
 - **Compact Size**: 7.874 mm x 7.239 mm
 - **Connector**: Standard 3-pin interface (VCC, GND, SIG)
 
+![](media/img1.png)
+![](media/img2.png)
+
 ### Applications
 This module is ideal for:
 - Nano Sumo Robots
