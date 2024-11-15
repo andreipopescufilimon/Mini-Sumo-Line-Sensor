@@ -1,0 +1,4 @@
+﻿Designator	Footprint	Mid X	Mid Y	Ref X	Ref Y	Pad X	Pad Y	Layer	Rotation	Comment
+"R31"	"R0603"	"11.18mm"	"67.95mm"	"11.18mm"	"67.95mm"	"11.18mm"	"68.7mm"	"B"	"270"	"47kΩ"
+"R32"	"R0603"	"11.18mm"	"71.12mm"	"11.18mm"	"71.12mm"	"11.18mm"	"71.87mm"	"B"	"270"	"220Ω"
+"U1"	"OPTO-SMD_QRE1113GR"	"13.97mm"	"69.47mm"	"13.97mm"	"69.47mm"	"14.87mm"	"71.47mm"	"B"	"270"	"QRE1113GR"
