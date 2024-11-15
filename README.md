@@ -41,6 +41,6 @@ Popescu Filimon Andrei Cosmin
 
 For more information, feel free to contact me:
 - Email: andrei.popescufilimon@gmail.com
-- Instagram @andreip851
+- Instagram: @andreip851
 - Discord: epic_space
 
