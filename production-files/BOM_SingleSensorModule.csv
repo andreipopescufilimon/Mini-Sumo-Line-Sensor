@@ -1,0 +1,4 @@
+﻿ID	Name	Designator	Footprint	Quantity	Manufacturer Part	Manufacturer	Supplier	Supplier Part	Price
+"1"	"47kΩ"	"R31"	"R0603"	"1"	""	""	"LCSC"	"C25792"	""
+"2"	"220Ω"	"R32"	"R0603"	"1"	""	""	"LCSC"	"C22962"	""
+"3"	"QRE1113GR"	"U1"	"OPTO-SMD_QRE1113GR"	"1"	""	""	"LCSC"	"C232862"	""
