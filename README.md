@@ -36,9 +36,6 @@ This module is ideal for:
 | Dimensions          | 7.874 mm x 7.239 mm |
 | Connection Interface| 3-pin (GND, +5V, SIG) |
 
-### License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ### Author
 Popescu Filimon Andrei Cosmin
 
